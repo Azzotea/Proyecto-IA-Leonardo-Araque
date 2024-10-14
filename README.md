@@ -8,3 +8,5 @@ Compañero
 Nombre: Jackson Rivera Úsuga
 Cc: 1000567660
 Programa: Ingeniería de Sistemas (504)
+
+Enlace 2° entrega: https://www.youtube.com/watch?v=nBrARTCVESQ&ab_channel=JACKSONLEONARDORIVERAUSUGA
